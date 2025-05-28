@@ -1,0 +1,34 @@
+.container{
+    background-color: #99c7dd;
+    border: 1px solid #000;
+    padding: 5px;
+    height: 600px;
+
+
+    /* flex styles*/
+    /* display: flex;÷ */
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+    /* justify-content: space-around; */
+    /* align-items: flex-start; */
+}
+
+.element{
+    border: 2px solid #000;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+    width: 200px;    
+    /* height: 250px; */
+
+}
+
+.otrofelx {
+    align-items: flex-end;
+}
+
+
+.otrofelx:hover {
+    background-color: #f0f;
+    color: #FF0;
+}
