@@ -1,30 +1,8 @@
-  body{
-            background-color: bisque;
-        }
-
-        .text {
-            background-color: green;
-        }
-
-        p {
-            background-color: rgb(165, 203, 174);
-        }
-
-        #p5 {
-            background-color: yellow;
-        }
-
-a {
-
-    background-color: #0176dd;
-    color: #FFF;
-  padding: 20px 40px;
-  font-size: 20px;
-  border-radius: 10px;
-  text-decoration: none;
+body{
+    background-color: bisque;
 }
 
-a:hover{
-     background-color: #FFF;
-    color: #0176dd;
+div {
+    background-color: rgb(201, 255, 243);
+    border: 1px solid #f0f;
 }
