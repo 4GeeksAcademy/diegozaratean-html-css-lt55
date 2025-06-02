@@ -3,6 +3,14 @@ body{
 }
 
 div {
-    background-color: rgb(201, 255, 243);
-    border: 1px solid #f0f;
+    /* background-color: rgb(201, 255, 243); */
+    /* border: 1px solid #f0f; */
 }
+.btn-success {
+  background-color: pink;
+}
+
+.boton-purpura {
+  background-color: purple;
+}
+
